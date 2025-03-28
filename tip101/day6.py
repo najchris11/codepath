@@ -64,6 +64,7 @@ def valid_palindrome(s):
     
 
 def is_palindrome(s):
+    
     frontPtr, backPtr = 0, len(s)-1
     while frontPtr < backPtr:
         if s[frontPtr] != s[backPtr]:
