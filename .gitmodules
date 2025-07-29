@@ -1,0 +1,9 @@
+[submodule "tip101"]
+	path = tip101
+	url = https://github.com/najchris11/codepath-tip101.git
+[submodule "tip103"]
+	path = tip103
+	url = https://github.com/najchris11/codepath-tip103.git
+[submodule "ios101"]
+	path = ios101
+	url = https://github.com/najchris11/codepath-ios101.git
